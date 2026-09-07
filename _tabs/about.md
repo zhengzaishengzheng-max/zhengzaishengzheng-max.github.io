@@ -4,5 +4,22 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+你好，我是 **黑土527**。
+
+这里是我的个人学习博客，用来记录我学习各类有趣事务和充当个人日记（可公开性）。
+
+## 我在做什么
+
+我是一个普通又奇怪的人，什么都不懂，但又感兴趣。所以借助ai来当我的老师来帮我。这个博客就是我的学习记录角。
+
+## 这个博客用来做什么
+
+- 记录
+- 分享
+- 表达
+
+## 想对你说的话
+
+欢迎随时来交流，但大概率是我要多多指教各位！
+
+谢谢你来访也欢迎指点我！
